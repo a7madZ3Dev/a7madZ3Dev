@@ -29,7 +29,7 @@
 <img align="right" alt="GIF" src="code.gif" width="450" height="250" />
 
 #### Talking about my personal stuff:
-
+- 🌆 Developer from <b>Syria<b>  ❤🤍🖤
 - 🎓 I have a master's degree in web Science and I will graduate next month.
 - 💻 The tech I'm interested: Flutter/ML/AR etc.
 - 📱 Soon it will be my first app on the Play Store
@@ -79,8 +79,6 @@
 ## 📝 My GitHub Stats 
 
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=a7madZ3Dev&theme=gotham)](https://github.com/a7madZ3Dev/github-readme-stats)
-
-<br>
-Developer from <b>Syria<b>  ❤🤍🖤
-    
+   
 <br> ![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=PROFILE+VIEWS)
+
