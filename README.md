@@ -34,9 +34,6 @@
 
 </div> -->
 
-<br>
-<br>
-
 ### A Master Student, Developer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
@@ -49,9 +46,7 @@
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 Live [Portfolio][profile]
 
-<br>
-<br>
-<br>
+
 <!-- ### Languages & Tools
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -74,9 +69,7 @@
 
 </div>
 
-<br>
-<br>
-<br>
+
 
 <summary>📝 My GitHub Stats</summary>
 <br>
@@ -84,7 +77,6 @@
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=a7madZ3Dev&theme=gotham)](https://github.com/a7madZ3Dev/github-readme-stats)
 
 <br>
-<br>
-<br>
+
 Developer from <b>Syria<b> ❤🤍🖤 
 ![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=visitor)
