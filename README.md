@@ -76,6 +76,5 @@
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=a7madZ3Dev&theme=gotham)](https://github.com/a7madZ3Dev/github-readme-stats)
 
 <br>
-Developer from <b>Syria<b> ❤🤍🖤  <br>
-    
-![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=visitor)
+Developer from <b>Syria<b>  ❤🤍🖤 
+    ![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=visitor)
