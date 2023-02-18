@@ -36,7 +36,7 @@
 
 ### A Master Student, Developer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="450" height="320" />
 
 #### Talking about my personal stuff:
 
@@ -69,8 +69,7 @@
 
 </div>
 
-
-
+<br>
 <summary>📝 My GitHub Stats</summary>
 <br>
 
