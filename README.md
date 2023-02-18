@@ -57,8 +57,8 @@
 <br>
 <br>
 
-<div align="center">
-<p align="center">🛠 Tools & Technology</p>
+
+ ## 🛠 Tools & Technology
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -66,8 +66,6 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-
-</div>
 
 <br>
 
@@ -78,7 +76,7 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-<summary>📝 My GitHub Stats</summary>
+## 📝 My GitHub Stats 
 <br>
 
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=a7madZ3Dev&theme=gotham)](https://github.com/a7madZ3Dev/github-readme-stats)
