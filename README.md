@@ -25,18 +25,6 @@
 
 <br>
 
-<!-- <div align="center">
-<p align="center">Nominate me as GitHub Star ⭐</p>
-
-<a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
-</a>
-
-</div> -->
-
-<br>
-<br>
-<br>
 
 ### A Master Student, Developer
 
@@ -48,7 +36,7 @@
 - 📱 Soon it will be my first app on the Play Store
 - ✨ I'm learning Python, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
+- 📄 Live [Portfolio]
 
 
 <!-- ### Languages & Tools
@@ -61,6 +49,10 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
+<br>
+<br>
+<br>
+<br>
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
