@@ -40,7 +40,7 @@
 
 #### Talking about my personal stuff:
 
-- 💻 The tech I'm interested Flutter/ML/AR etc.
+- 💻 The tech I'm interested: Flutter/ML/AR etc.
 - 📱 Soon will Be me the First app on Play Store
 - ✨ I'm learning Python, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
@@ -76,6 +76,6 @@
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=a7madZ3Dev&theme=gotham)](https://github.com/a7madZ3Dev/github-readme-stats)
 
 <br>
-
 Developer from <b>Syria<b> ❤🤍🖤 
+<br>    
 ![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=visitor)
