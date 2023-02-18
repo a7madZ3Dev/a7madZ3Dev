@@ -26,10 +26,10 @@
 
 ### A Master Student, Developer
 
-<img align="right" alt="GIF" src="code.gif" width="450" height="250" />
+<img align="right" alt="GIF" src="code.gif" width="350" height="250" />
 
 #### Talking about my personal stuff:
-- 🌆 Developer from <b>Syria<b>  ❤🤍🖤
+- 🌆 Developer from Syria  ❤🤍🖤
 - 🎓 I have a master's degree in web Science and I will graduate next month.
 - 💻 The tech I'm interested: Flutter/ML/AR etc.
 - 📱 Soon it will be my first app on the Play Store
@@ -40,26 +40,7 @@
 - 📄 Live [Portfolio]
 - 📝 My Resume []
 
-
-<!-- ### Languages & Tools
-
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
  ## 🛠 Tools & Technology
-
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -67,7 +48,6 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-
 
 ## 🖥️ Workspace Setup
 
