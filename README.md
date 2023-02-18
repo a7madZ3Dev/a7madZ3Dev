@@ -23,12 +23,10 @@
 </a>
 </div>
 
-<br>
-
 
 ### A Master Student, Developer
 
-<img align="right" alt="GIF" src="code.gif" width="450" height="200" />
+<img align="right" alt="GIF" src="code.gif" width="450" height="250" />
 
 #### Talking about my personal stuff:
 
