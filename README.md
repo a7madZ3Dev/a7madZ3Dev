@@ -77,4 +77,6 @@
 
 <br>
 Developer from <b>Syria<b>  ❤🤍🖤 
-    ![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=visitor)
+<br>
+    
+![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=visitor)
