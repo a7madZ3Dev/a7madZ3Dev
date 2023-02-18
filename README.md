@@ -24,7 +24,7 @@
 </div>
 
 
-### A Master Student, Developer 
+### 👨‍💻 A Master Student, Developer 
 
 <img align="right" alt="GIF" src="code.gif" width="350" height="250" />
 
