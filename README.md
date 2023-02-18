@@ -24,21 +24,24 @@
 </div>
 
 
-### A Master Student, Developer
+### A Master Student, Developer 
 
 <img align="right" alt="GIF" src="code.gif" width="350" height="250" />
 
-#### Talking about my personal stuff:
-- 🌆 Developer from Syria  ❤🤍🖤
+## Talking about my personal stuff:
+
+- 🌆 Developer from Syria ❤
 - 🎓 I have a master's degree in web Science and I will graduate next month.
 - 💻 The tech I'm interested: Flutter/ML/AR etc.
-- 📱 Soon it will be my first app on the Play Store
-- 🎸 I am really enthusiastic about learning new technology.
 - ✨ I'm learning Python, Web scrapping, Automations etc.
-- 🎮 My hobbies are sketching and playing COD Modern Warfare 1 Multiplayer
+- 🎸 I am really enthusiastic about learning new technology.
+- 📱  Soon it will be my first app on the Play Store
+- 🎮 My hobbies are sketching and playing COD Modern Warfare
 - 📚 I also love reading books on personal development
-- 📄 Live [Portfolio]
-- 📝 My Resume []
+- 📄 Live [Portfolio][profile]
+- 📝 My [Resume][resume]
+
+<br> 
 
  ## 🛠 Tools & Technology
 
@@ -49,6 +52,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 
+<br> 
+
 ## 🖥️ Workspace Setup
 
 ![i7-8th-gen](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -56,9 +61,11 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## 📝 My GitHub Stats 
+<br> 
+
+## 📝 Stats 
 
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=a7madZ3Dev&theme=gotham)](https://github.com/a7madZ3Dev/github-readme-stats)
    
-<br> ![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=PROFILE+VIEWS)
 
