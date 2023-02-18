@@ -35,7 +35,7 @@
 - 💻 The tech I'm interested: Flutter/ML/AR etc.
 - ✨ I'm learning Python, Web scrapping, Automations etc.
 - 🎸 I am really enthusiastic about learning new technology.
-- 📱      Soon it will be my first app on the Play Store
+- 👏 Soon it will be my first app on the Play Store
 - 🎮 My hobbies are sketching and playing COD Modern Warfare
 - 📚 I also love reading books on personal development
 - 📄 Live [Portfolio][profile]
