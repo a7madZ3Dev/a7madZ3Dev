@@ -70,7 +70,8 @@
 </div>
 
 <br>
-#### 📝 My GitHub Stats
+
+<summary>📝 My GitHub Stats</summary>
 <br>
 
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=a7madZ3Dev&theme=gotham)](https://github.com/a7madZ3Dev/github-readme-stats)
