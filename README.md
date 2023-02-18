@@ -24,7 +24,7 @@
 </div>
 
 
-### 👨‍💻 A Master Student, Developer 
+### 👨‍💻 A Master's Student, a Cross Platform Developer (specializing in Flutter)
 
 <img align="right" alt="GIF" src="code.gif" width="350" height="250" />
 
