@@ -30,11 +30,15 @@
 
 #### Talking about my personal stuff:
 
+- 🎓 I have a master's degree in web Science and I will graduate next month.
 - 💻 The tech I'm interested: Flutter/ML/AR etc.
 - 📱 Soon it will be my first app on the Play Store
+- 🎸 I am really enthusiastic about learning new technology.
 - ✨ I'm learning Python, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
+- 🎮 My hobbies are sketching and playing COD Modern Warfare 1 Multiplayer
+- 📚 I also love reading books on personal development
 - 📄 Live [Portfolio]
+- 📝 My Resume []
 
 
 <!-- ### Languages & Tools
@@ -66,6 +70,13 @@
 </div>
 
 <br>
+
+## 🖥️ Workspace Setup
+
+![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <summary>📝 My GitHub Stats</summary>
 <br>
