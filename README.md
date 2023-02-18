@@ -28,7 +28,7 @@
 
 ### A Master Student, Developer
 
-<img align="right" alt="GIF" src="code.gif" width="450" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="450" height="200" />
 
 #### Talking about my personal stuff:
 
