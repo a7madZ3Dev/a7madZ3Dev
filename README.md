@@ -39,7 +39,6 @@
 - 🎮 My hobbies are sketching and playing COD Modern Warfare
 - 📚 I also love reading books on personal development
 - 📄 Live [Portfolio][profile]
-- 📝 My [Resume][resume]
 
  ## 🛠 Tools & Technology
 
