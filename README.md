@@ -64,4 +64,4 @@
 ![](https://komarev.com/ghpvc/?username=a7madZ3Dev&label=PROFILE+VIEWS)
 
 [profile]: https://a7madz3dev.github.io/#/
-
+[resume]: https://mega.nz/file/Ok4GhTSa#v8AT9ogB60Ydkq5zc7gqoV5i-XhN4oiFaUboPYjwULE
