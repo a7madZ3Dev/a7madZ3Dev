@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/ahmad-alzoabi-0623a8233/">
+<a href="https://www.linkedin.com/in/ahmad-al-zoabi-0623a8233/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
