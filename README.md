@@ -32,8 +32,8 @@
 
 - 🌆 Developer from Syria ❤
 - 🎓 I have a master's degree in web Science and I will graduate next month.
-- 💻 The tech I'm interested: Flutter/ML/AR etc.
-- ✨ I'm learning Python, Web scrapping, Automations etc.
+- 💻 The tech I'm interested in: Flutter/ML/AR etc.
+- ✨ I'm learning Python, Web scrapping, Automation, etc.
 - 🎸 I am really enthusiastic about learning new technology.
 - 👏 Soon it will be my first app on the Play Store
 - 🎮 My hobbies are sketching and playing COD Modern Warfare
